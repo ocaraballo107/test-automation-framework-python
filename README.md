@@ -1,6 +1,6 @@
 # Test Automation Framework with Page Object Model, PyTest, and Requests
 
-This is a test automation framework that combines frontend testing using Selenium WebDriver and backend API testing using the `requests` library. The framework automates tests for the "https://www.dish.com" website and interacts with a sample RESTful API for CRUD operations on contacts.
+This is a test automation framework that combines frontend testing using Selenium WebDriver and backend API testing using the `requests` library. The framework automates tests for the "https://www.thinking-tester-contact-list.herokuapp.com" website and interacts with a sample RESTful API for CRUD operations on contacts.
 
 ## Project Structure
 
