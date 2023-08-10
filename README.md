@@ -4,20 +4,20 @@ This is a test automation framework that combines frontend testing using Seleniu
 
 ## Project Structure
 
-- test_automation_framework/
-- │
-- ├── tests/
-- │ ├── init.py
-- │ ├── test_homepage.py
-- │ ├── test_backend.py
-- │
-- ├── pages/
-- │ ├── init.py
-- │ ├── homepage.py
-- │
-- ├── conftest.py
-- ├── pytest.ini
-- └── README.md
+test_automation_framework/
+ │
+ ├── tests/
+ │ ├── init.py
+ │ ├── test_homepage.py
+ │ ├── test_backend.py
+ │
+ ├── pages/
+ │ ├── init.py
+ │ ├── homepage.py
+ │
+ ├── conftest.py
+ ├── pytest.ini
+ └── README.md
 
 ## Requirements
 
