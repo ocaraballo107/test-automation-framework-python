@@ -44,5 +44,3 @@ def test_homepage_search(home_page):
 def test_homepage_id(home_page):
     assert home_page.find_element_by_id("signup") is not None
 
-
-# Path: portafolio/test_automation_framework/tests/test_homepage.py
